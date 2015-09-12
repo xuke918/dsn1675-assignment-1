@@ -17,6 +17,7 @@ figure {
 h1 {
   margin: 0;
   text-align: center;
+  font-size: 2.5em;
 }
 
 
@@ -64,4 +65,18 @@ a {
 
 p {
   margin: 0;
+}
+
+h2{
+  margin: 0;
+  text-align: center;
+  padding: 15px 0 15px 0;
+}
+
+h3 {
+  margin: 0;
+}
+
+.wonders {
+  margin: 30px;
 }
