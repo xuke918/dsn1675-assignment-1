@@ -47,22 +47,23 @@ a {
   position: relative;
 }
 
-.figcaption {
-  font-size: 1.5em;
+figcaption {
+  width: 100%;
+  font-size: 2em;
   color: #fff;
-  padding: 20px;
-  top: 12em;
-  right: 5em;
+  text-align: center;
+  top: 9.5em;
   position: absolute;
 }
 
 .text {
-  font-size: 1.2em;
+  font-size: 1.3em;
   color: #fff;
   text-align: center;
-  padding: 30px;
-  top: 17em;
+  padding: 10px 20px;
+  top: 16em;
   position: absolute;
+
 }
 
 p {
