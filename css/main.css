@@ -152,3 +152,27 @@ dt {
   padding-left: 20px;
   list-style-type: none;
 }
+
+.footer {
+  text-align: left;
+  padding-left: 20px;
+}
+
+.contact {
+  text-align: left;
+  list-style-type: none;
+}
+
+.right {
+  position: relative;
+  float: right;
+  display: inline-block;
+}
+
+
+
+.last {
+  padding-left: 0px;
+  text-align: left;
+  display: block;
+}
