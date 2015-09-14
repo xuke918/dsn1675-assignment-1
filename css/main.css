@@ -102,6 +102,10 @@ dd {
 }
 
 
+.tickets {
+  text-align: center;
+}
+
 .buy {
   text-align: center;
   padding: 10px 60px 4px 60px;
