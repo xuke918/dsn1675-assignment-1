@@ -87,14 +87,25 @@ padding: 15px 30px;
 }
 
 .link {
+
   background-color: #b0e0e6;
   border:3px solid #8AC007;
   padding: 10px;
 }
 
+dl {
+  margin: 0;
+  padding-top: 5px;
+}
+
 dt {
   float: left;
 }
+
+dd {
+  margin: 0;
+}
+
 
 .buy {
   text-align: center;
