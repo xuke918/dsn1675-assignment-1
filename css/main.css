@@ -74,6 +74,7 @@ h2{
   margin: 0;
   text-align: center;
   padding: 15px 0 15px 0;
+  font-size: 1.7em;
 }
 
 h3 {
@@ -82,5 +83,27 @@ h3 {
 
 .jpg {
 padding: 15px 30px;
+}
 
+.link {
+
+  background-color: #b0e0e6;
+  border:3px solid #8AC007;
+  padding: 10px;
+}
+
+dt {
+  float: left;
+}
+
+
+
+.buy1 {
+  text-align: center;
+  padding: 10px 60px 4px 60px;
+}
+
+.buy2 {
+  text-align: center;
+  padding: 0px 60px 10px 60px;
 }
