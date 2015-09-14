@@ -183,3 +183,7 @@ dd {
   text-align: left;
   display: block;
 }
+
+ul li {
+  list-style-type: disc;
+}
