@@ -182,7 +182,7 @@ dd {
   font-size: 1.9em;
   text-align: center;
   position: absolute;
-  top: 4150px;
+  top: 4350px;
   display: block;
   color: #fff;
 }
@@ -192,7 +192,7 @@ dd {
   font-size: 1.3em;
   text-align: center;
   position: absolute;
-  top: 4180px;
+  top: 4380px;
   display: block;
   color: #fff;
 }
@@ -202,10 +202,11 @@ dd {
   font-size: 1.3em;
   text-align: center;
   position: absolute;
-  top: 4205px;
+  top: 4405px;
   display: block;
   border: 2px solid #8AC007;
   color: #fff;
+  margin-left: 8em;
 }
 
 
