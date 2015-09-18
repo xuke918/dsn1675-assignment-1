@@ -115,7 +115,7 @@ h3 {
 
 .jpg {
   padding: 15px 30px;
-  background-color: #E2E2E2;
+
 }
 
 
@@ -128,6 +128,7 @@ dl {
 .date {
   float: left;
   width: 33.3%;
+  padding-bottom: 10px;
 }
 
 dd {
