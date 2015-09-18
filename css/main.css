@@ -29,20 +29,38 @@ img {
   width: 100%;
 }
 
-ol {
+nav ol {
   margin: 0;
-  padding: 1em 0 1em 0;
+
   text-align: center;
   font-size: 1em;
-
+  overflow: hidden;
+  background-color: #A8A7A7;
 }
 
 nav li {
   font-size: 1.2em;
   display: inline-block;
-  padding-left: 1em;
-  padding-right: 1em;
-  overflow: hidden;
+  float: left;
+  width: 25%;
+}
+
+ol li:hover{
+  background-color: #D3D3D3;
+  padding: 0;
+  margin: 0;
+}
+
+
+nav a {
+  display: block;
+	color: #fff;
+	font-size: 1rem;
+	text-decoration: none;
+	text-align: center;
+	padding: 0.5em;
+	margin: 0;
+	width: 100%;
 }
 
 a {
@@ -83,6 +101,7 @@ h2{
   text-align: center;
   padding: 15px 0 15px 0;
   font-size: 1.7em;
+
 }
 
 h3 {
@@ -97,6 +116,7 @@ h3 {
 
 .jpg {
   padding: 15px 30px;
+  background-color: #E2E2E2;
 }
 
 
@@ -224,3 +244,11 @@ ul li {
   left: 10px;
   display: block;
 }
+
+
+
+ol {
+  margin: 0;
+  padding: 1em 0 1em 0;
+  text-align: center;
+  font-size: 1em;
