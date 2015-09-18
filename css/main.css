@@ -83,6 +83,7 @@ h2{
 }
 
 h3 {
+  padding-left: 20px;
   margin: 0;
 }
 
@@ -177,11 +178,7 @@ dd {
   color: #fff;
 }
 
-.week {
-  text-align: left;
-  padding-left: 20px;
-  list-style-type: none;
-}
+
 
 .footer {
   text-align: left;
