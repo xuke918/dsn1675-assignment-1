@@ -252,3 +252,15 @@ ol {
   text-align: center;
   font-size: 1em;
 }
+
+.learn {
+  display: inline-block;
+  width: 50%;
+  text-align: center;
+  text-decoration: none;
+  background-color: #fff;
+  padding:  0.5em;
+  border: 1px solid grey;
+  margin-left: 10em;
+  border-radius: 0.5em;
+}
