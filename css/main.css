@@ -124,15 +124,14 @@ dl {
   padding-top: 5px;
 }
 
-dt {
+
+.date {
   float: left;
   width: 33.3%;
 }
 
 dd {
   margin: 0;
-  float: left;
-  width: 33.3%;
 }
 
 
