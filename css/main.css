@@ -44,9 +44,8 @@ nav li {
 
 a {
   text-decoration: none;
+
 }
-
-
 
 .banner {
   position: relative;
@@ -85,14 +84,11 @@ h2{
 
 h3 {
   margin: 0;
-
 }
 
 .jpg {
   padding: 15px 30px;
 }
-
-
 
 dl {
   margin: 0;
@@ -111,8 +107,23 @@ dd {
 }
 
 
-.tickets {
+.tickets  {
   text-align: center;
+}
+
+
+.left {
+  float:left;
+  width: 50%;
+  border: 1px solid grey;
+  background-color: lightgrey;
+}
+
+.right {
+  float:left;
+  width: 50%;
+  border: 1px solid grey;
+  background-color: lightgrey;
 }
 
 .buy {
