@@ -105,8 +105,6 @@ h3 {
 }
 
 
-
-
 dl {
   margin: 0;
   padding-top: 5px;
@@ -115,7 +113,6 @@ dl {
 dt {
   float: left;
   width: 33.3%;
-
 }
 
 dd {
@@ -135,8 +132,8 @@ dd {
   width: 50%;
   border: 1px solid grey;
   background-color: lightgrey;
+  text-align: center;
 }
-
 
 
 .right {
@@ -144,6 +141,7 @@ dd {
   width: 50%;
   border: 1px solid grey;
   background-color: lightgrey;
+  text-align: center;
 }
 
 .buy {
