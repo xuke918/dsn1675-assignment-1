@@ -31,6 +31,7 @@ ol {
   padding: 1em 0 1em 0;
   text-align: center;
   font-size: 1em;
+
 }
 
 nav li {
@@ -38,14 +39,18 @@ nav li {
   display: inline-block;
   padding-left: 1em;
   padding-right: 1em;
+  overflow: hidden;
 }
 
 a {
   text-decoration: none;
 }
 
+
+
 .banner {
   position: relative;
+  display: block;
 }
 
 figcaption {
@@ -64,7 +69,7 @@ figcaption {
   padding: 10px 20px;
   top: 16em;
   position: absolute;
-
+  width: 100%;
 }
 
 p {
@@ -84,7 +89,7 @@ h3 {
 }
 
 .jpg {
-padding: 15px 30px;
+  padding: 15px 30px;
 }
 
 
@@ -96,10 +101,13 @@ dl {
 
 dt {
   float: left;
+  width: 33.3%;
 }
 
 dd {
   margin: 0;
+  float: left;
+  width: 33.3%;
 }
 
 
