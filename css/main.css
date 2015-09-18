@@ -15,10 +15,12 @@ figure {
 }
 
 h1 {
-  padding-top: 20px;
+  padding: 20px 0 20px 0;
   margin: 0;
   text-align: center;
   font-size: 2.5em;
+  background-color: grey;
+  color: #fff;
 }
 
 
@@ -153,7 +155,6 @@ dd {
 
 .atlantis {
   position: relative;
-
 }
 
 .strong {
@@ -188,9 +189,9 @@ dd {
 }
 
 
-.footer {
+footer {
   text-align: left;
-  padding-left: 20px;
+  padding: 15px 0 0 20px;
 }
 
 .contact {
