@@ -50,7 +50,6 @@ body {
   margin-bottom: 0.5em;
   margin-left: 0.6em;
   border-radius: 0.5em;
-
 }
 
 
@@ -116,6 +115,7 @@ a {
 }
 
 
+
 h2{
   margin: 0;
   text-align: center;
@@ -144,8 +144,6 @@ dd {
   margin: 0;
   padding-bottom: 10px;
 }
-
-
 
 .learn {
   display: inline-block;
@@ -461,6 +459,7 @@ ol {
 
 
 
+
   .nav a {
     padding: 20px 24px;
   }
@@ -605,5 +604,28 @@ ol {
   footer {
     padding-left: 50px;
   }
+
+}
+
+@media only screen and (min-width: 60em) {
+
+  html{
+    font-size: 120%;
+    line-height: 1.5;
+  }
+
+  main {
+    float: none;
+    padding: 1em;
+    margin: 0;
+  }
+
+  header {
+    float: none;
+    padding: 1em;
+  }
+
+
+
 
 }
