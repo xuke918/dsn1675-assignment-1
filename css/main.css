@@ -153,7 +153,7 @@ dd {
   background-color: lightgrey;
   text-align: center;
   display: block;
-  margin: 10px ;
+  margin: 10px 10px 5px 10px;
   border-radius: 0.4em;
 }
 
@@ -162,7 +162,7 @@ dd {
   border: 1px solid grey;
   background-color: lightgrey;
   text-align: center;
-  margin: 10px;
+  margin: 0 10px 10px 10px;
   border-radius: 0.4em;
 }
 
