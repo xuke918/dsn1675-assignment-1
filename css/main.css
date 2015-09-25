@@ -626,7 +626,7 @@ ol {
 
 
   .logo {
-    width: 10%;
+    width: 8%;
     float: left;
     margin: 0 auto;
     padding: 0;
@@ -638,14 +638,15 @@ ol {
   .headbuy {
     width: 10%;
     margin: 0 auto;
-    display: inline-block;
+    display: block;
     position: absolute;
     top: 1em;
-    right: 12em;
+    right: 11em;
   }
 
   .nav a {
-    padding: 10px 40px;
+    font-size: 1.2rem;
+    padding: 10px 50px;
     margin: 0;
   }
 
@@ -661,8 +662,21 @@ ol {
   }
 
   .learn {
-    margin-left: 2em;
+    margin-left: 4em;
+    width: 70%;
   }
 
+  .wrapper {
+      max-width: 100m;
+      margin: 0 auto;
+    }
 
+  .background {
+    background-color: #e4ffff;
+    overflow: hidden;
+  }
+
+  .lighthouse {
+    clear: left;
+  }
 }
