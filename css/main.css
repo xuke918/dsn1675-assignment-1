@@ -284,7 +284,9 @@ ol {
     font-size: 1em;
   }
 
-
+  .text {
+    padding: 15px;
+  }
 
   h3 {
   font-size: 1em;
@@ -310,7 +312,7 @@ ol {
 }
 
   .jpg {
-  padding: 15px;
+  padding: 15px 15px 0 15px;
 }
 
   .learn {
@@ -339,5 +341,24 @@ ol {
     padding-left: 15px;
   }
 
+  ul li {
+    padding: 0 15px 0 0;
+  }
+
+  footer{
+    padding-left: 15px;
+  }
+}
+
+
+@media only screen and (min-width: 30em) {
+
+  .nav a {
+    padding: 15px 10px;
+  }
+
+  .jpg {
+    padding-bottom: 0;
+  }
 
 }
