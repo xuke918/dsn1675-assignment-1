@@ -38,6 +38,21 @@ body {
   padding-bottom: 1em;
 }
 
+.headbuy {
+color: black;
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+  background-color: #fff;
+  padding:  0.5em;
+  border: 1px solid grey;
+  margin-bottom: 0.5em;
+  border-radius: 0.5em;
+
+}
+
+
 figure {
   margin: 0;
 }
@@ -520,25 +535,27 @@ ol {
     font-size: 1.5em;
     bottom: 2.8em;
   }
+
   .text {
     padding: 70px;
     font-size: 1.5em;
   }
 
- .learn {
-   margin-left: 7em;
- }
+  .learn {
+    margin-left: 8.5em;
+  }
 
- .jpg {
-  padding: 20px 30px 0 30px;
-}
+  .jpg {
+    padding: 20px 30px 0 30px;
+  }
+
   .buy {
     padding: 0 30px 0 30px;
   }
 
   .left {
     width: 50%;
-    
+
   }
 
   .right {
