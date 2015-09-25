@@ -357,6 +357,10 @@ ol {
     padding: 15px 11px;
   }
 
+  .text {
+    padding: 20px;
+  }
+
   dl {
   margin: 0;
   padding-top: 5px;
@@ -399,16 +403,18 @@ ol {
 }
   .left {
     float: left;
-    margin: 0;
+    margin: 10px 0 10px 0;
     width: 50%;
 
   }
 
   .right {
     float: left;
-    margin: 0;
+    margin: 10px 0 10px 0;
     width: 50%;
-
   }
 
+  .see {
+    margin-left: 6.5em;
+  }
 }
