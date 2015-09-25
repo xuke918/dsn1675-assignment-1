@@ -63,6 +63,7 @@ strong {
   margin: 0;
   position: absolute;
   bottom: -2.5em;
+  color: pink;
 }
 
 .banner {
@@ -108,7 +109,8 @@ h2{
 
 h3 {
   margin: 0;
-  font-size: 0.9em;
+  font-size: 1em;
+  padding-bottom: 5px;
 }
 
 
@@ -239,7 +241,8 @@ footer {
 
 ul li {
   list-style-type: disc;
-  font-size: 0.9em;
+  font-size: 1em;
+  padding-bottom: 8px;
 }
 
 .time {
