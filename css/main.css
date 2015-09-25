@@ -537,15 +537,13 @@ ol {
   }
 
   .left {
-    width: 40%;
-    display: inline-block;
-    margin-left: 60px;
+    width: 50%;
+    
   }
 
   .right {
-    width: 40%;
-    display: inline-block;
-    margin-left: 60px;
+    width: 50%;
+
   }
 
   .text_1 {
