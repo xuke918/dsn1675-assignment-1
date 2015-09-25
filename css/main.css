@@ -129,6 +129,8 @@ dd {
   padding-bottom: 10px;
 }
 
+
+
 .learn {
   display: inline-block;
   width: 100%;
@@ -291,9 +293,11 @@ ol {
 }
 
   dt {
-    padding-bottom: 10px 0 2px 0;
+    padding-bottom: 2px ;
 }
-
+  dd {
+    padding-bottom: 10px;
+}
 
   .text_1 {
     padding: 15px;
