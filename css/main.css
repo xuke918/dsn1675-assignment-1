@@ -382,6 +382,11 @@ ol {
     padding: 20px;
   }
 
+  .headbuy {
+    width: 25%;
+    margin-left: 1em;
+  }
+
   dl {
   margin: 0;
   padding-top: 5px;
@@ -454,6 +459,8 @@ ol {
     font-size:  2em;
   }
 
+
+
   .nav a {
     padding: 20px 24px;
   }
@@ -518,6 +525,11 @@ ol {
     float: right;
     width: 70%;
     background-color: #e3ffff;
+  }
+
+  .headbuy {
+    width: 25%;
+    margin-left: 7em;
   }
 
   .logo {
