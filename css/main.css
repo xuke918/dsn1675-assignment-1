@@ -322,13 +322,13 @@ ol {
 
   .left {
     width: 60%;
-    padding:  0.3em;
+    padding: 0.3em;
     margin-left: 80px;
   }
 
   .right {
     width: 60%;
-    padding:  0.3em;
+    padding: 0.3em;
     margin-left: 80px;
   }
 
@@ -354,11 +354,47 @@ ol {
 @media only screen and (min-width: 30em) {
 
   .nav a {
-    padding: 15px 10px;
+    padding: 15px 11px;
+  }
+
+  dl {
+  margin: 0;
+  padding-top: 5px;
+  }
+
+  dt {
+  float: left;
+  width: 33.3%;
+  }
+
+  dd {
+  margin: 0;
+  float: left;
+  width: 33.3%
   }
 
   .jpg {
-    padding-bottom: 0;
+    padding: 6px 17px 0 17px;
   }
+
+  .left {
+    width: 50%;
+    padding: 0.3em;
+    margin-left: 100px;
+  }
+
+  .right {
+    width: 50%;
+    padding: 0.3em;
+    margin-left:  100px;
+  }
+
+  .text_1 {
+    font-size: 1.3em;
+    padding: 30px;
+    bottom: 2.5em;
+    bottom: 1.2em;
+  }
+
 
 }
